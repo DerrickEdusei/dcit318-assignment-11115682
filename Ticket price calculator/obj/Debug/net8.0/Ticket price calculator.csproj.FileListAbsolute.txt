@@ -1,0 +1,15 @@
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\bin\Debug\net8.0\Ticket price calculator.exe
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\bin\Debug\net8.0\Ticket price calculator.deps.json
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\bin\Debug\net8.0\Ticket price calculator.runtimeconfig.json
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\bin\Debug\net8.0\Ticket price calculator.dll
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\bin\Debug\net8.0\Ticket price calculator.pdb
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.AssemblyInfoInputs.cache
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.AssemblyInfo.cs
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.csproj.CoreCompileInputs.cache
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.sourcelink.json
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.dll
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\refint\Ticket price calculator.dll
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.pdb
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\Ticket price calculator.genruntimeconfig.cache
+C:\Users\johns\dcit318-assignment-11115682\Ticket price calculator\obj\Debug\net8.0\ref\Ticket price calculator.dll
